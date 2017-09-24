@@ -1,0 +1,14 @@
+{ "name" : "Mike" , "movies allowed" : 3 , "loaned" : [ { "title" : "Fences" , "star" : "Denzel Washington" } , { "title" : "La La Land" , "star" : "Emma Stone" } ] }
+"name"
+"movies allowed"
+"loaned"
+
+{ "days" : [ "Mon" , "Tue" , "Wed" , "Thu" , "Fri" ] }
+[ "Mon" , "Tue" , "Wed" , "Thu" , "Fri" ]
+"Mon"
+"Tue"
+"Wed"
+"Thu"
+"Fri"
+
+End of processing.
